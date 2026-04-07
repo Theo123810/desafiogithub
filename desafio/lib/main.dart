@@ -25,7 +25,7 @@ class TelaInicial extends StatefulWidget {
 }
 
 class _TelaInicialState extends State<TelaInicial> {
-  String texto = "Olá, mundo!";
+  String texto = "Olá, Bernardo";
 
   void mudarTexto() {
     setState(() {
